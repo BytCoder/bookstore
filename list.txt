@@ -1,0 +1,4 @@
+Sergiusz;Piasecki;Piaty etap;1938;150
+Vasil;Bykau;One Night;1965;300
+Uladzimir;Karatkievic;The Dark Catsle Olshansky;1984;250
+Adam;Mickiewicz;Pan Tadeusz;1834;350
